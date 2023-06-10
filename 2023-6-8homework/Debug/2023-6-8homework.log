@@ -1,0 +1,5 @@
+﻿  6-8.c
+  tesT.C
+C:\Users\xuqif\source\repos\2023-6-8homework\tesT.C(11,21): warning C4013: 'strlen' undefined; assuming extern returning int
+  Generating Code...
+  2023-6-8homework.vcxproj -> C:\Users\xuqif\source\repos\2023-6-8homework\Debug\2023-6-8homework.exe
